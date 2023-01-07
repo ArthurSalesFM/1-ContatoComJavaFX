@@ -11,4 +11,5 @@ Iniciando os Estudos em JavaFX
 
 * *POO*
 * *Lambda Expression*
+* *Modularidade*
 * *API JavaFX**
