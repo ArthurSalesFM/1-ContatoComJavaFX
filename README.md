@@ -12,4 +12,3 @@ Iniciando os Estudos em JavaFX
 * *POO*
 * *Lambda Expression*
 * *API JavaFX**
-* * asdasd
